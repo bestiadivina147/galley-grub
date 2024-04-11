@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class RetailPrice {
     static final Map<String, Double> prices = new HashMap<String, Double>();
-    public RetailPrice() {};
+    private RetailPrice() {};
     public static Double getPrices(String item) {
         return prices.get(item);
     }
@@ -20,8 +20,7 @@ public class RetailPrice {
         return prices.containsKey(contiene);
     }
     public static void display() {
-        prices.entrySet().stream()
-                                .forEach(entry -> System.out.println("\t" + entry));
+        prices.entrySet().stream().forEach(entry -> System.out.println("\t" + entry));
     }
 
 }

@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "Product.java"
+        "Product.java",
+        "Item.java"
     ]
 }

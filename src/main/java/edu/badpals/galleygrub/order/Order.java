@@ -1,12 +1,13 @@
 package edu.badpals.galleygrub.order;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import edu.badpals.galleygrub.items.Item;
 
 public class Order implements Comanda {
     private Double total ;
-
+    private List<Item> items = new ArrayList<>();
     public Order() {
     }
 
@@ -20,7 +21,7 @@ public class Order implements Comanda {
 
     @Override
     public int size() {
-        return  1;
+        return  items.size();
     }
 
     @Override

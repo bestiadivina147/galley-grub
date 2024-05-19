@@ -8,7 +8,8 @@
         "OrderTest.java",
         "Order.java",
         "OrderMap.java and OrderMapTest.java",
-        "Extra.java"
+        "Extra.java",
+        "Ticket.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

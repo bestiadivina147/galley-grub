@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "Product.java",
         "Item.java",
-        "ItemTest.java"
+        "ItemTest.java",
+        "ItemFactory.java"
     ]
 }

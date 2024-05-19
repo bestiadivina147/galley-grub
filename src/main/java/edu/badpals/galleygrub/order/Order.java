@@ -11,7 +11,7 @@ public class Order implements Comanda {
     private Double total = 0d;
     private List<Item> items = new ArrayList<>();
     public Order() {
-    }
+    };
 
     @Override
     public void addItem(String name, double price) {
@@ -25,7 +25,7 @@ public class Order implements Comanda {
         this.items.add(item);
     }
 
-    @Override
+    
     public int size() {
         return  this.items.size();
     }

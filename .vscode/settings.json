@@ -16,7 +16,8 @@
         "CheeseExtra.java Extras.java",
         "SauceExtraTest.java",
         "SauceExtra.java",
-        "SizeLargeExtraTest.java"
+        "SizeLargeExtraTest.java",
+        "SizeLargeExtra.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

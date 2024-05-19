@@ -1,6 +1,5 @@
 package edu.badpals.galleygrub.extras;
 
-package edu.poniperro.galleygrub.extras;
 
 import static org.junit.Assert.assertEquals;
 

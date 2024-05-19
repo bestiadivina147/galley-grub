@@ -8,7 +8,7 @@ import edu.badpals.galleygrub.items.Item;
 import edu.badpals.galleygrub.items.ItemFactory;
 
 public class Order implements Comanda {
-    private Double total ;
+    private Double total = 0d;
     private List<Item> items = new ArrayList<>();
     public Order() {
     }
@@ -43,7 +43,7 @@ public class Order implements Comanda {
 
     @Override
     public void updateTotal(Double price) {
-        this.total= total + total;
+        this.total+= total;
     }
 
     private void itemDisplay(Item item) {

@@ -11,7 +11,8 @@
         "Extra.java",
         "Ticket.java",
         "Receipt.java",
-        "Regular.java"
+        "Regular.java",
+        "CheeseExtraTest.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

@@ -1,4 +1,3 @@
-package edu.badpals.galleygrub.receip;
 
 package edu.badpals.galleygrub.receipt;
 

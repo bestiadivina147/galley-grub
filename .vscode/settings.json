@@ -3,6 +3,7 @@
         "Product.java",
         "Item.java",
         "ItemTest.java",
-        "ItemFactory.java"
+        "ItemFactory.java",
+        "ItemFactoryTest.java"
     ]
 }

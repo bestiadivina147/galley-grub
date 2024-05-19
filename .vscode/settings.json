@@ -7,7 +7,8 @@
         "ItemFactoryTest.java",
         "OrderTest.java",
         "Order.java",
-        "OrderMap.java and OrderMapTest.java"
+        "OrderMap.java and OrderMapTest.java",
+        "Extra.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

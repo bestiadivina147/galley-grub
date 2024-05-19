@@ -13,7 +13,8 @@
         "Receipt.java",
         "Regular.java",
         "CheeseExtraTest.java",
-        "CheeseExtra.java Extras.java"
+        "CheeseExtra.java Extras.java",
+        "SauceExtraTest.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

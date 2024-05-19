@@ -1,4 +1,4 @@
-package edu.badpals.galleygrub.receip;
+package edu.badpals.galleygrub.receipt;
 
 import edu.badpals.galleygrub.extras.Extra;
 import edu.badpals.galleygrub.order.Comanda;

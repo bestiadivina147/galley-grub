@@ -10,7 +10,8 @@
         "OrderMap.java and OrderMapTest.java",
         "Extra.java",
         "Ticket.java",
-        "Receipt.java"
+        "Receipt.java",
+        "Regular.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

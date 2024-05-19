@@ -1,6 +1,6 @@
 package edu.badpals.galleygrub.receip;
 
-package edu.poniperro.galleygrub.receipt;
+package edu.badpals.galleygrub.receipt;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -15,6 +15,7 @@ import edu.badpals.galleygrub.extras.SauceExtra;
 import edu.badpals.galleygrub.extras.SizeLargeExtra;
 import edu.badpals.galleygrub.order.Comanda;
 import edu.badpals.galleygrub.order.Order;
+import edu.badpals.galleygrub.receipt.Receipt;
 
 public class ReceiptTest {
 
